@@ -1,0 +1,11 @@
+{
+  "name": "node-twitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shimakaze-git/node-twitter.git",
+  "author": "shimakaze-git <shimakaze.soft+github@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
